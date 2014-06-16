@@ -1,0 +1,78 @@
+<html>
+    
+<head>
+    
+
+<title>Inicio</title>
+    
+</head>
+    
+<body bgcolor="#FFFFCC">
+    
+</body text="#FF00FF">
+    
+<H1 align="center"><font color="#800000" size="10" face="Comic Sans MS, Arial, MS Sans Serif">JUGUETES</font>  
+       
+  
+<body>
+
+<table  width="80%" border="2" align="center" cellspacing="15" bordercolor="#800000" bgcolor="#FFFFCC">
+  <tr align="center">
+    <td>MASCOTA</td>
+<td>JUGUETES</td>
+ </tr>
+  <tr align="center">
+    <td>PERRO</td>
+<td><P>PELOTAS<P/>
+<P>JUGUETES DE MASCAR<P/></td>
+  </tr>
+  <tr align="center">
+    <td>GATOS</td>
+<td><P>ESTAMBRE<P/>
+<P>RATONES DE JUGUETE<P/></td>
+</tr>
+  <tr align="center">
+    <td>CANARIO</td>  
+<td><P>COLUMPIOS<P/>
+<P>TINAS PARA QUE SE BA&ntilde;EN<P/>
+<P>ESCALERA<P/></td>
+  </tr>
+<tr align="center">
+    <td>PERICO</td>  
+<td><P>COLUMPIOS<P/>
+<P>TINAS PARA QUE SE BA&ntilde;EN<P/>
+<P>ESCALERA<P/></td></td>
+  </tr>
+<tr align="center">
+    <td>PEZ</td>  
+<td>PLANTAS</td>
+  </tr>
+<tr align="center">
+    <td>HAMSTER</td>  
+<td><P>TUNELES<P/>
+<P>RUEDAS</P></td>
+  </tr>
+<tr align="center">
+    <td>LORO</td>  
+<td><P>COLUMPIOS<P/>
+<P>TINAS PARA QUE SE BA&ntilde;EN<P/>
+<P>ESCALERA<P/></td>
+  </tr>
+<tr align="center">
+    <td>RATON</td>  
+<td><P>TUNELES<P/>
+<P>RUEDAS</P></td>
+  </tr>
+<tr align="center">
+    <td>POLLO</td>  
+<td>NO UTILIZA</td>
+  </tr>
+<tr align="center">
+    <td>CONEJO</td>  
+<td><P>CESTAS DE PAJA<P/>
+<P>OBJETOS QUE PUEDA EMPUJAR POR TODA LA CASA</P></td>
+  </tr>
+</table>
+</body>
+</html>
+    

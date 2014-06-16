@@ -1,0 +1,17 @@
+<html>
+    
+<head>
+    
+
+<title>Inicio</title>
+    
+</head>
+    
+<body bgcolor="#FFFFCC">
+    
+</body text="#FF00FF">
+    
+<H1 align="center"><font color="#800000" size="10" face="Comic Sans MS, Arial, MS Sans Serif">CUIDADOS</font>  
+       
+  
+<body>
